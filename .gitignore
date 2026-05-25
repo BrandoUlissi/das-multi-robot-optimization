@@ -1,0 +1,31 @@
+# ROS2 build artifacts
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+*.egg
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ROS2 runtime outputs (logs from Task 2.2 supervisor)
+task_2_2_ros2_aggregative/aggregative_control/data/agent_data_log.csv
+
+# OS misc
+Thumbs.db
+*~
+*.bak
