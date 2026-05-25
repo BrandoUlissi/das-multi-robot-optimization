@@ -88,7 +88,7 @@ The aggregative algorithm of Task 2.1 is reimplemented as a ROS 2 package, with 
 
 ![ROS 2 / RViz](docs/images/task_2_2_rviz.png)
 
-Demo video: [▶ watch on YouTube](https://youtu.be/PLACEHOLDER)
+Demo video: [▶ watch on YouTube]([https://youtu.be/PLACEHOLDER](https://youtu.be/eVVtqJ8o3os?si=c_H3fGnPHzMhUTd))
 <!-- Replace with actual link once the RViz demo is uploaded. -->
 
 ## Dependencies
